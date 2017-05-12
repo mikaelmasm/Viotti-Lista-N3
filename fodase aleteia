@@ -1,0 +1,25 @@
+Atividade sobre Redes de Computadores
+
+1.	Quando devemos ter uma rede do tipo servidor dedicado?
+Quando a rede doméstica não suporta o fluxo de conexões.
+2.	Até quantos computadores é considerado aceitável para termos uma rede ponto-a-ponto? Em qual situação é ideal para termos um rede ponto-a-ponto? E qual o sistema operacional que é possível ter uma rede deste tipo?
+Para compartilhar informações de pequeno porte entre pessoas, não é útil em uma empresa ou para uma grande quantidade de informações. Em sistemas operacionais comuns é possível criar essa conexão.
+3.	Qual o tipo de cabo, conectores e equipamentos são necessários em uma topologia estrela?
+Utilizam cabos de par trançado e um switch como ponto central da rede
+4.	Quais são os tipos de servidores e qual a função de cada um deles?
+5.	Qual topologia lógica é utilizada pelas topologias físicas Barramento e estrela? 
+6.	Uma empresa possui uma rede com 100 computadores e um servidor Windows Server. Existem 10 impressoras conectadas nas estações. O diretor de TI deseja tirar as impressoras das estações para não sobrecarregá-las.
+	a-) De que forma eles podem ser elas devem ser instaladas?
+	b-) Quais os prováveis Sistemas Operacionais instalados nas estações?
+	c-) Qual topologia e protocolo?
+	d-) Qual tipo de cabeamento? Conectores?
+	
+	Nesta empresa apenas 10 computadores acessam a Internet através de modem.
+	e-) Qual protocolo usado durante a conexão?
+
+	Para que todas as estações acessam a Internet qual o melhor método a ser implementado? Quais os equipamentos necessários?
+
+
+7.	Quais os protocolos utilizados atualmente em redes de longa distância
+8.	Qual a diferença entre o Protocolo IPv4 e IPv6?
+
