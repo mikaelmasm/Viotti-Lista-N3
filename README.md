@@ -1,2 +1,2 @@
-# Dump-2.0
-As the name suggests.
+# Grupo de Venoninhos
+Lista de exercícios do Viotti para N3.
